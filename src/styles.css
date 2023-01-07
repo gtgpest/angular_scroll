@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+  width: 100%;
+}
+
+body {
+
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  height: auto;
+  max-height: 100vh;
+}
+
+.my-container {
+  width: 200px;
+  height: 100px;
+  margin-bottom: 32px;
+}
+
+.my-button {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 32px;
+}
+
+
